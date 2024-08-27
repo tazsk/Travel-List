@@ -1,0 +1,15 @@
+.travel_list {
+  height: 200px;
+  width: 100%;
+  background-color: burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.img {
+  margin: 0;
+  height: 29vh;
+  background-repeat: no-repeat;
+}
